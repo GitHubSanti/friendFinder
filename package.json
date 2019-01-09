@@ -1,0 +1,28 @@
+{
+  "name": "friendFinder",
+  "version": "1.0.0",
+  "description": "Node and Express Servers application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "8.11.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubSanti/friendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubSanti/friendFinder/issues"
+  },
+  "homepage": "https://github.com/GitHubSanti/friendFinder#readme"
+}
